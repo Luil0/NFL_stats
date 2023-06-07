@@ -22,7 +22,7 @@ In this project python is used to scrape through the html in the NFL teams page 
 - Seaborn
 
 
-**Clone Jupyter notebook project:** [NFL stats project](nfl_stats.ipynb)
+**Jupyter notebook project:** [NFL stats project](nfl_stats.ipynb)
 
 ## Limits:
 This project only gets the data for one team each from a certain year 
