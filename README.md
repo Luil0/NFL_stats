@@ -1,7 +1,7 @@
 # NFL Stats Project
 
 ## Introduction
-This projeect is a python based web scraping project that extracts data for an nfl team from https://www.pro-football-reference.com/ and uses the data for analysis.
+This project is a python based web scraping project that extracts data for an nfl team from https://www.pro-football-reference.com/ and uses the data for analysis.
 
 ## overview
 In this project python is used to scrape through the html in the NFL teams page and extract specific details to compile into a structured formant. The information that is retrieved is used to explore the variables, create graphs, and analyze the NFL team's data.
