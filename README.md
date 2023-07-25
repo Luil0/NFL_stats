@@ -7,8 +7,8 @@ This project is a python based web scraping project that extracts data for an nf
 In this project python is used to scrape through the html in the NFL teams page and extract specific details to compile into a structured formant. The information that is retrieved is used to explore the variables, create graphs, and analyze the NFL team's data.
 
 ## Features and Capabilities
-- extract NFL team data: retreive offense and opponent team name, week, day, record, score, total yards, passing yards, rush yards, and turnovers. 
-- Creating bar graph function: The funcion full_bargarphs returns bargaphs for the offense or opponent stats and showes different color based on the result. 
+- extract NFL team data: retrieve offense and opponent team name, week, day, record, score, total yards, passing yards, rush yards, and turnovers. 
+- Creating bar graph function: The function full_bargarphs returns bargaphs for the offense or opponent stats and shows different color based on the result. 
 - Store data: Bar graphs can be stored into a png. 
 
 ## Technologies Used
@@ -25,5 +25,5 @@ In this project python is used to scrape through the html in the NFL teams page 
 **Jupyter notebook project:** [NFL stats project](nfl_stats.ipynb)
 
 ## Limits:
-This project only gets the data for one team each from a certain year 
+There is only one year of data for each team. 
 
